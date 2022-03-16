@@ -1,4 +1,5 @@
 - [Introductory Problems](#-Introductory Problems)
+
 # Introductory Problems
 | Problem | Solution |
 | ------- | -------- |
