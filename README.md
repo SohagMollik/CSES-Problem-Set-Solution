@@ -1,5 +1,5 @@
-# CSES-Problem-Set-Solution
-## Introductory Problems
+- [Introductory Problems](#Introductory Problems)
+# Introductory Problems
 
 | Problem | Solution |
 | ------- | -------- |
