@@ -1,5 +1,5 @@
 - [Introductory problems](#introductory-problems)
-- [Sorting and Searching](#Sorting and Searching)
+- [Sorting and Searching](#Sorting-and-Searching)
 ## Introductory Problems
 | Problem | Solution |
 | ------- | -------- |
