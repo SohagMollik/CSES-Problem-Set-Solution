@@ -1,4 +1,5 @@
 - [Introductory problems](#introductory-problems)
+- [Sorting and Searching](#Sorting and Searching)
 ## Introductory Problems
 | Problem | Solution |
 | ------- | -------- |
@@ -8,3 +9,9 @@
 | [Repetitions](https://cses.fi/problemset/task/1069) | [Repetitions.cpp](https://github.com/SohagMollik/CSES-Problem-Set-Solution/blob/main/Introductory%20Problems/Repetitions.cpp) |
 | [Permutations](https://cses.fi/problemset/task/1070) | [Permutations.cpp](https://github.com/SohagMollik/CSES-Problem-Set-Solution/blob/main/Introductory%20Problems/Permutations.cpp) |
 | [Two Sets](https://cses.fi/problemset/task/1092) | [Two Sets.cpp](https://github.com/SohagMollik/CSES-Problem-Set-Solution/blob/main/Introductory%20Problems/Two%20Sets.cpp) |
+| [Trailing Zeros](https://cses.fi/problemset/task/1618/) | [Trailing Zeros.cpp](https://github.com/SohagMollik/CSES-Problem-Set-Solution/blob/main/Introductory%20Problems/Trailing%20Zeros.cpp) |
+
+## Sorting and Searching
+| Problem | Solution |
+| ------- | -------- |
+| [Distinct Numbers](https://cses.fi/problemset/task/1621/) | [Distinct Numbers.cpp](https://github.com/SohagMollik/CSES-Problem-Set-Solution/blob/main/Sorting%20and%20Searching/Distinct%20Numbers.cpp) |
