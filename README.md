@@ -1,5 +1,6 @@
 - [Introductory problems](#introductory-problems)
 - [Sorting and Searching](#Sorting-and-Searching)
+- [Mathematics](#Mathematics)
 ## Introductory Problems
 | Problem | Solution |
 | ------- | -------- |
@@ -17,3 +18,8 @@
 | Problem | Solution |
 | ------- | -------- |
 | [Distinct Numbers](https://cses.fi/problemset/task/1621/) | [Distinct Numbers.cpp](https://github.com/SohagMollik/CSES-Problem-Set-Solution/blob/main/Sorting%20and%20Searching/Distinct%20Numbers.cpp) |
+
+## Mathematics
+| Problem | Solution |
+| ------- | -------- |
+| [Counting Divisors](https://cses.fi/problemset/task/1713) | [Counting Divisors.cpp](https://github.com/SohagMollik/CSES-Problem-Set-Solution/blob/main/Mathematics/Counting%20Divisors.cpp) |
