@@ -1,6 +1,6 @@
 - [Introductory problems](#introductory-problems)
-- [Sorting and Searching](#Sorting-and-Searching)
-- [Mathematics](#Mathematics)
+- [Sorting and Searching](#sorting-and-searching)
+- [Mathematics](#mathematics)
 ## Introductory Problems
 | Problem | Solution |
 | ------- | -------- |
