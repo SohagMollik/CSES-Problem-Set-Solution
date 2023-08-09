@@ -18,6 +18,7 @@
 | Problem | Solution |
 | ------- | -------- |
 | [Distinct Numbers](https://cses.fi/problemset/task/1621/) | [Distinct Numbers.cpp](https://github.com/SohagMollik/CSES-Problem-Set-Solution/blob/main/Sorting%20and%20Searching/Distinct%20Numbers.cpp) |
+| [Maximum Subarray Sum](https://cses.fi/problemset/task/1643/) | [Maximum Subarray Sum.cpp](https://github.com/SohagMollik/CSES-Problem-Set-Solution/blob/main/Sorting%20and%20Searching/Maximum%20Subarray%20Sum.cpp) |
 
 ## Mathematics
 | Problem | Solution |
