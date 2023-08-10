@@ -16,25 +16,28 @@ int main()
 
     int n,x,target;
     cin>>n>>target;
-   vector<pair<int,int>>ans;
-    for(int i=0;i<n;++i){
+    vector<pair<int,int>>ans;
+    for(int i=0; i<n; ++i)
+    {
         cin>>x;
         ans.pb({x,i+1});
     }
-sort(ans.begin(),ans.end());
+    sort(ans.begin(),ans.end());
 
-int left=0,right=n-1;
-while(left<right){
+    int left=0,right=n-1;
+    while(left<right)
+    {
 
-    if((ans[left].f + ans[right].f)==target){
-        cout<<ans[left].s<<" "<<ans[right].s<<nn;
-        return 0;
+        if((ans[left].f + ans[right].f)==target)
+        {
+            cout<<ans[left].s<<" "<<ans[right].s<<nn;
+            return 0;
+        }
+        else if((ans[left].f + ans[right].f)>target)right--;
+        else left++;
     }
-    else if((ans[left].f + ans[right].f)>target)right--;
-    else left++;
-}
 
-cout<<"IMPOSSIBLE"<<nn;
+    cout<<"IMPOSSIBLE"<<nn;
 
     return 0;
 }
