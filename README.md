@@ -20,6 +20,7 @@
 | [Distinct Numbers](https://cses.fi/problemset/task/1621/) | [Distinct Numbers.cpp](https://github.com/SohagMollik/CSES-Problem-Set-Solution/blob/main/Sorting%20and%20Searching/Distinct%20Numbers.cpp) |
 | [Maximum Subarray Sum](https://cses.fi/problemset/task/1643/) | [Maximum Subarray Sum.cpp](https://github.com/SohagMollik/CSES-Problem-Set-Solution/blob/main/Sorting%20and%20Searching/Maximum%20Subarray%20Sum.cpp) |
 | [Sum of Two Values](https://cses.fi/problemset/task/1640/) | [Sum of Two Values.cpp](https://github.com/SohagMollik/CSES-Problem-Set-Solution/blob/main/Sorting%20and%20Searching/Sum%20of%20Two%20Values.cpp) |
+| [Stick Lengths](https://cses.fi/problemset/task/1074/) | [Stick Lengths.cpp](https://github.com/SohagMollik/CSES-Problem-Set-Solution/blob/main/Sorting%20and%20Searching/Stick%20Lengths.cpp) |
 
 ## Mathematics
 | Problem | Solution |
