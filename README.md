@@ -26,3 +26,4 @@
 | Problem | Solution |
 | ------- | -------- |
 | [Counting Divisors](https://cses.fi/problemset/task/1713) | [Counting Divisors.cpp](https://github.com/SohagMollik/CSES-Problem-Set-Solution/blob/main/Mathematics/Counting%20Divisors.cpp) |
+| [Exponentiation](https://cses.fi/problemset/task/1095/) | [Exponentiation.cpp](https://github.com/SohagMollik/CSES-Problem-Set-Solution/blob/main/Mathematics/Exponentiation.cpp) |
